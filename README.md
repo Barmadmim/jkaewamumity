@@ -46,3 +46,6 @@ Coloca otro bloque de comandos configurado como "Repetir" y "Incondicional" con 
 execute as @e if score @s Totems matches 1 run scoreboard players reset @s Totems
 ```
 Este comando restablecerá la puntuación del marcador Totems a 0 después de que se haya mostrado el mensaje.
+
+vboxuser
+changeme
